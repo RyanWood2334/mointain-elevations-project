@@ -1,0 +1,24 @@
+{
+  "name": "mountain-elevations-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanWood2334/mountain-elevations-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanWood2334/mountain-elevations-project/issues"
+  },
+  "homepage": "https://github.com/RyanWood2334/mountain-elevations-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
